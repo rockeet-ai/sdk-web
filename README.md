@@ -41,4 +41,4 @@ npm i rockeet
 
 ## <a id="docs"></a> Documentation
 
-See the full documentation with SDK examples at <a href="https://friday.fipsi.at/docs">friday.fipsi.at/docs</a>.
+See the full documentation with SDK examples at <a href="https://rockeet.ai/docs">rockeet.ai/docs</a>.
